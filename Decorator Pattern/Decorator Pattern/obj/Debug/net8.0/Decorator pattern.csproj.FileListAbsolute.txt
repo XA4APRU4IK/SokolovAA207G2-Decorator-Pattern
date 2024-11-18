@@ -1,0 +1,14 @@
+C:\Users\SokolovAA\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Decorator pattern.exe
+C:\Users\SokolovAA\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Decorator pattern.deps.json
+C:\Users\SokolovAA\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Decorator pattern.runtimeconfig.json
+C:\Users\SokolovAA\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Decorator pattern.dll
+C:\Users\SokolovAA\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Decorator pattern.pdb
+C:\Users\SokolovAA\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Decorator pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SokolovAA\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Decorator pattern.AssemblyInfoInputs.cache
+C:\Users\SokolovAA\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Decorator pattern.AssemblyInfo.cs
+C:\Users\SokolovAA\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Decorator pattern.csproj.CoreCompileInputs.cache
+C:\Users\SokolovAA\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Decorator pattern.dll
+C:\Users\SokolovAA\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Decorator pattern.dll
+C:\Users\SokolovAA\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Decorator pattern.pdb
+C:\Users\SokolovAA\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Decorator pattern.genruntimeconfig.cache
+C:\Users\SokolovAA\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Decorator pattern.dll
